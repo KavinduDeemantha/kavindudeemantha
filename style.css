@@ -8,7 +8,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(./Untitled_design.png);
+    background-image: url("./Untitled_design.png");
     background-size: cover;
     background-position: center;
 }
